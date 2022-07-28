@@ -1,0 +1,8 @@
+
+
+[2022-07-28 04:40:22] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2022-07-28 04:40:22] [0,0] SetSteamID( [U:1:0] )
+[2022-07-28 04:40:22] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2022-07-28 04:40:22] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2022-07-28 04:40:22] Connectivity test: OK!
+[2022-07-28 04:40:22] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0

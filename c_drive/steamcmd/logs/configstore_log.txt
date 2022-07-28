@@ -1,0 +1,6 @@
+
+
+[2022-07-28 04:40:22] Failed to read store 'install' from 'C:\Users\admin\Downloads\build\steamcmd\config\config.vdf.tmp'
+[2022-07-28 04:40:22] Failed to read store 'install' from 'C:\Users\admin\Downloads\build\steamcmd\config\config.vdf.tmp'
+[2022-07-28 04:40:22] Failed to read store 'install' from 'C:\Users\admin\Downloads\build\steamcmd\config\config.vdf.tmp'
+[2022-07-28 04:40:22] Flushed store 'install' to 'C:\Users\admin\Downloads\build\steamcmd\config\config.vdf'
